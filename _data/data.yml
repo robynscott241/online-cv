@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Robyn Dent
+    tagline: GAP Graduate Intern
+    avatar: cicularprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: robyn24dent@gmail.com
+    phone: 073 933 9719
+    website: Johannesburg, South Africa
+    linkedin: robyn-dent-60ab0214a
+    github: robynscott241
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -28,22 +28,25 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Gardening
         link:
 
-      - item: Snowboarding
+      - item: Mountain Biking
         link:
 
       - item: Cooking
         link:
 
+      - item: Reading
+        link:
+        
+      - item: Dog Training
+        link:
+        
+      - item: Sports Shooting
+        link:  
+        
 career-profile:
     title: Career Profile
     summary: |
@@ -167,16 +170,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Quickbooks
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: MS Project
         level: 98%
 
-      - name: Angular
+      - name: Microsoft Office
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Organisation 
         level: 95%
 
       - name: Ruby on Rails
