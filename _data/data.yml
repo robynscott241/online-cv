@@ -43,14 +43,15 @@ sidebar:
         link:  
         
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        My name is Robyn and I am currently a GAP Gradate Intern at Dimension
+        Data in Johannesburg. I have a Masters degree in business resilience 
+        and environmental risk. I live with my fiance and our three dogs, in 
+        a house we purchased for oursleves in 2017. I am passionate about
+        sustainability and environmental affairs and the role we can play
+        in protecting our environment. One of my unique features is my below
+        knee amputation and my prosthetic leg.
 education:
     - degree: MSc in Computer Science
       university: University of London
